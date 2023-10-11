@@ -28,20 +28,6 @@ Even though I have a few sinking or not holding ideas, I will contribute to the 
 
 ### 🔭 Start-up companies that I actively support
 
-Benzinlitre - Astopia - İyiyaşa - Lifebox
-
-
-
-
-
-
-### 🤔 How to write github proflie
-
-tr blog-> https://medium.com/@utkuglsvn/github-profilinize-readme-olu%C5%9Fturma-70f9ee897c8c
-
-en blog-> https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme
-<!--
-**UtkuGlsvn/UtkuGlsvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
