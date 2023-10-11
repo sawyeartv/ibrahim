@@ -31,9 +31,9 @@ Even though I have a few sinking or not holding ideas, I will contribute to the 
 Benzinlitre - Astopia - İyiyaşa - Lifebox
 
 
-[benzinlitre get play store :)]: https://play.google.com/store/apps/details?id=com.benzinlitre.app&hl=en
 
-My google play store https://play.google.com/store/apps/developer?id=FoxyCode&hl=en
+
+
 
 ### 🤔 How to write github proflie
 
