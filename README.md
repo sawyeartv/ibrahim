@@ -10,7 +10,7 @@
 
 
 ## 📚 My Medium Account
-[@utkuglsvn ](https://medium.com/@ibrahim_aktepe13)
+[@ibrahim_aktepe13 ](https://medium.com/@ibrahim_aktepe13)
 
 
 ## 🌐 My Github io
